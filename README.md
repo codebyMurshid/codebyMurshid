@@ -14,12 +14,6 @@ About Me:
 Languages:
   HTML • CSS • JavaScript
 
-Tools & Skills:
-  Git & GitHub
-  Responsive Design
-  Basic UI/UX Concepts
-  VS Code
-
 Learning Soon:
   React.js
   Tailwind CSS
