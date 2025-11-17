@@ -5,19 +5,13 @@ and always excited to learn something new.
 
 About Me:
   I’m currently learning HTML, CSS, JavaScript, and exploring React
-  I enjoy UI/UX design, color palettes, and crafting smooth interactions
   I love turning ideas into real, functional projects
   My goal: become a skilled Front-End Engineer and build a strong portfolio
 
   I believe in learning by doing & improving one project at a time
 
-Languages:
-  HTML • CSS • JavaScript
-
-Learning Soon:
-  React.js
-  Tailwind CSS
-  Web Animations & Accessibility
+Tech Stack:
+  HTML • CSS • JavaScript • React • TailwindCSS
 
 Current Projects:
   Building small websites to practice layouts
