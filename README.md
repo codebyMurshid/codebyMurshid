@@ -1,8 +1,8 @@
-Hi, I'm **Murshid**!
+Hi, I'm **<ins>Murshid</ins>**!
 
 _Welcome to my GitHub! I'm currently on a journey to become a front-end developer. I'm passionate about design, curious about how things work on the web, and always excited to learn something new._
 
-**About Me:**
+**<ins>About Me</ins>:**
 
  -  _I’m currently learning HTML, CSS, JavaScript, and exploring React_
   
@@ -12,11 +12,11 @@ _Welcome to my GitHub! I'm currently on a journey to become a front-end develope
   
  - _I believe in learning by doing & improving one project at a time_
 
-**Tech Stack:**
+**<ins>Tech Stack</ins>:**
 
   - _HTML • CSS • JavaScript • React • TailwindCSS_
 
-**Current Projects:**
+**<ins>Current Projects</ins>:**
 
  - _Building small websites to practice layouts_
   
@@ -24,7 +24,7 @@ _Welcome to my GitHub! I'm currently on a journey to become a front-end develope
   
  - _Working toward my first complete portfolio_
  
-**Fun Facts about me:** 
+**<ins>Fun Facts about me</ins>:** 
 
 - _I love minimalist design_
   
