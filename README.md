@@ -1,6 +1,7 @@
 Hi, I'm **<ins>Murshid</ins>**!
 
 _Welcome to my GitHub! I’m passionate about building modern, responsive front-end experiences and continuously improving my skills through hands-on projects. I focus on creating clean, intuitive designs while learning how to turn ideas into functional, user-friendly applications._
+
 **<ins>About Me</ins>:**
 
  -  _Currently building strong foundations in HTML, CSS, and JavaScript, while working with React_
