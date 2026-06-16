@@ -17,9 +17,7 @@ _Welcome to my GitHub! I’m passionate about building modern, responsive front-
 **<ins>Tech Stack</ins>:**
 
   _Front-End: HTML • CSS • JavaScript • React • Next.js • TailwindCSS_
-  
-  _Back-End(learning): Next.js API Routes • Server-Side Rendering • Data Fetching_
-  
+   
   _Tools: Git • Github • VS Code_
 
  
