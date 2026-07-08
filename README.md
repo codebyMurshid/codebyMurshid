@@ -14,7 +14,7 @@ Welcome to my GitHub! I'm an aspiring full-stack and mobile developer, currently
 
 **<ins>Tech Stack</ins>:**
 
-   Front-End: HTML • CSS • JavaScript • React • Next.js • Tailwind CSS
+   Front-End: HTML • CSS • JavaScript • React • Tailwind CSS
    
    Backend: Node.js • Express.js
 
