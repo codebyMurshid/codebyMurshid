@@ -1,30 +1,30 @@
-Hi, I'm **<ins>Murshid</ins>**!
+Hi, I'm **<ins>Murshid</ins>👋**!
 
-_Welcome to my GitHub! I’m passionate about building modern, responsive front-end experiences and continuously improving my skills through hands-on projects. I focus on creating clean, intuitive designs while learning how to turn ideas into functional, user-friendly applications._
+Welcome to my GitHub! I'm an aspiring full-stack and mobile developer, currently learning by building real-world web and mobile applications. I enjoy creating responsive user interfaces, exploring modern technologies, and improving my skills through hands-on projects.
 
 **<ins>About Me</ins>:**
 
- -  _Currently building strong foundations in HTML, CSS, and JavaScript, while working with React_
+ -  Learning and building with React, Express, React Native, and Expo
    
- -  _Expanding my knowledge of modern front-end tools and frameworks_
+ -  Developing responsive web applications and cross-platform mobile apps
   
- - _Enjoy turning ideas into real, interactive projects_
+ - Focused on writing clean, maintainable code and improving with every project
   
- - _Focused on writing clean, maintainable code and improving with each project_
-  
- - _Committed to learning by doing and growing step by step_
+ - Always exploring new tools and best practices in modern development
 
 **<ins>Tech Stack</ins>:**
 
-  _Front-End: HTML • CSS • JavaScript • React • Next.js • TailwindCSS_
+   Front-End: HTML • CSS • JavaScript • React • Next.js • Tailwind CSS
    
-  _Tools: Git • Github • VS Code_
+   Backend: Node.js • Express.js
+
+   Tools: Git • GitHub • VS Code
 
  
 **<ins>Interests</ins>:** 
 
-- _Clean, minimalist design_
+- Web development
   
-- _Modern front-end technologies and frameworks_
+- Mobile app development
   
--  _Always working on something new - even if it's tiny_
+- Clean, modern UI/UX
